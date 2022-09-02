@@ -3,18 +3,18 @@
         "nombre" : "pepito",
         "color" : "blue",
         "email" : "pepito@hotmail.com",
-        "edad" : 24
+        "edad" : 34
     },
     {
-        "nombre" : "maria",
+        "nombre" : "albert",
         "color" : "blue",
-        "email" : "maria@hotmail.com",
-        "edad" : 35
+        "email" : "albert@hotmail.com",
+        "edad" : 22
     },
     {
-        "nombre" : "josefa",
+        "nombre" : "juancho",
         "color" : "rojo",
-        "email" : "josefa@hotmail.com",
+        "email" : "juancho@hotmail.com",
         "edad" : 21
     }
 ]
